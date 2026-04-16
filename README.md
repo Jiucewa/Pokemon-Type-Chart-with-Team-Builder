@@ -6,7 +6,7 @@
 [![Made with](https://img.shields.io/badge/made%20with-HTML%2FCSS%2FJS-blue)](https://github.com/Jiucewa/Pokemon-Type-Chart-with-Team-Builder-)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Live Demo:** https://jiucewa.github.io/Pokemon-Type-Chart-with-Team-Builder-/
+**Live Demo:** (https://jiucewa.github.io/Pokemon-Type-Chart-with-Team-Builder/)
 
 ---
 
